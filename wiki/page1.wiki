@@ -1,8 +1,11 @@
-#summary One-sentence summary of this page.
+#summary A collection of Octave/Matlab codes for ELM, EPSVM, PSVM, LSSVM, BP and RP training algorithms
 
 = Introduction =
 
-Add your content here.
+ELM.
+EPSVM.
+PSVM
+LSSVM.
 
 
 = Details =
