@@ -1,0 +1,1 @@
+This is a collection of matlab/octave codes for extreme learning machine aimed to be able used as replacement for neural network tool box for single-hidden layer feed forward architecture.
